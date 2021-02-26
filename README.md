@@ -18,3 +18,6 @@
 ### Languages and Tools:
 
 [<img align="left" alt="HTML" width="22px" src="./assets/html-icon.svg" />]
+
+[linkedin]: https://www.linkedin.com/in/david-viodes/
+[email]: djviodes26@gmail.com
