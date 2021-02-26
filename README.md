@@ -11,13 +11,12 @@
 ### Connect with me:
 
 [<img align="left" alt="djviodes | LinkedIn" width="22px" src="./assets/linkedin-icon.svg" />][linkedin]
-[<img align="left" alt="djviodes | Email" width="22px" src="./assets/gmail-icon.svg" />][email]
+<a href="mailto:djviodes26@gmail.com"><img align="left" alt="djviodes | Email" width="22px" src="./assets/gmail-icon.svg" /></a>
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML" width="22px" src="./assets/html-icon.svg" />]
+<img align="left" alt="HTML" width="22px" src="./assets/html-icon.svg" />
 
 [linkedin]: https://www.linkedin.com/in/david-viodes/
-[email]: djviodes26@gmail.com
