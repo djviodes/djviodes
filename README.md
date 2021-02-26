@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/david-viodes/" target="\_blank><img align="left" alt="djviodes | LinkedIn" width="22px" src="./assets/linkedin-icon.svg" /></a>
+<a href="https://www.linkedin.com/in/david-viodes/" target="\_blank"><img align="left" alt="djviodes | LinkedIn" width="22px" src="./assets/linkedin-icon.svg" /></a>
 <a href="mailto:djviodes26@gmail.com"><img align="left" alt="djviodes | Email" width="22px" src="./assets/gmail-icon.svg" /></a>
 
 <br />
