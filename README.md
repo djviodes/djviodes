@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="djviodes | LinkedIn" width="22px" src="./assets/linkedin-icon.svg" />][linkedin]
+[<img align="left" alt="djviodes | LinkedIn" width="22px" src="./assets/linkedin-icon.svg" target="_blank" />][linkedin]
 <a href="mailto:djviodes26@gmail.com"><img align="left" alt="djviodes | Email" width="22px" src="./assets/gmail-icon.svg" /></a>
 
 <br />
