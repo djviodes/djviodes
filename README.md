@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm David 👋
 
-<!--
-**djviodes/djviodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a Full-Stack Developer who works in a JavaScript, React, and Node based stack!
 
-Here are some ideas to get you started:
+- 😄 Pronouns: he/his
+- 🔭 I’m currently working on a video game API
+- 🌱 I’m currently learning more about database security
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I went to school to be an Audio Engineer for a little while
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="djviodes | LinkedIn" width="22px" src="./assets/linkedin-icon.svg" />][linkedin]
+[<img align="left" alt="djviodes | Email" width="22px" src="./assets/gmail-icon.svg" />][email]
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="HTML" width="22px" src="./assets/html-icon.svg" />]
