@@ -27,4 +27,11 @@
 <img align="left" alt="Python" width="22px" src="./assets/python-icon.svg" />
 <img align="left" alt="GitHub" width="22px" src="./assets/github-icon.svg" />
 
+<br />
+
+<img align="left" alt="djviodes's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=djviodes&show_icons=true&hide_border=true" />
+
+<br />
+<br />
+
 [linkedin]: https://www.linkedin.com/in/david-viodes/
