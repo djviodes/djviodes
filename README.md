@@ -18,5 +18,13 @@
 ### Languages and Tools:
 
 <img align="left" alt="HTML" width="22px" src="./assets/html-icon.svg" />
+<img align="left" alt="CSS" width="22px" src="./assets/css-icon.svg" />
+<img align="left" alt="JavaScript" width="22px" src="./assets/js-icon.svg" />
+<img align="left" alt="React" width="22px" src="./assets/react-icon.svg" />
+<img align="left" alt="Redux" width="22px" src="./assets/redux-icon.svg" />
+<img align="left" alt="Node" width="22px" src="./assets/node-icon.svg" />
+<img align="left" alt="Express" width="22px" src="./assets/express-icon.svg" />
+<img align="left" alt="Postgres" width="22px" src="./assets/postgres-icon.svg" />
+<img align="left" alt="Python" width="22px" src="./assets/python-icon.svg" />
 
 [linkedin]: https://www.linkedin.com/in/david-viodes/
