@@ -8,6 +8,11 @@
 - 🥅 2021 Goals: Contribute more to open source projects
 - ⚡ Fun fact: I went to school to be an audio engineer for a little while
 
+### Highlighted Projects:
+
+<a href="https://github.com/djviodes/family-promise-spokane-be-b/tree/main/api/docuSign" target="_blank">- Family Promise Homeless Shelter</a>
+    • A website designed to assist families with the intake process into Family Promise’s homeless shelter
+
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/david-viodes/" target="_blank"><img align="left" alt="djviodes | LinkedIn" width="22px" src="./assets/linkedin-icon.svg" /></a>
