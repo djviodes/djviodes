@@ -28,16 +28,4 @@
 <img align="left" alt="GitHub" width="22px" src="./assets/github-icon.svg" />
 
 <br />
-
-### GitHub Stats:
-
-<img align="left" alt="djviodes's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=djviodes&show_icons=true&hide_border=true&theme=dark" />
-
-<br />
-
-### Top Languages:
-
-<img align="left" alt="djviodes's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djviodes&theme=dark" />
-
-<br />
 <br />
