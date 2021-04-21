@@ -11,6 +11,7 @@
 ### Highlighted Projects:
 
 <a href="https://github.com/djviodes/family-promise-spokane-be-b/tree/main/api/docuSign" target="_blank">- Family Promise Homeless Shelter</a>
+<br />
     • A website designed to assist families with the intake process into Family Promise’s homeless shelter
 
 ### Connect with me:
