@@ -3,10 +3,10 @@
 ## I am a Full-Stack Developer who works in a JavaScript, React, and Node based stack!
 
 - 😄 Pronouns: he/his
-- 🔭 I’m currently working on a video game API
-- 🌱 I’m currently learning more about database security
+- 🕹 I’m currently working on a video game API
+- 🔐 I’m currently learning more about database security
 - 🥅 2021 Goals: Contribute more to open source projects
-- ⚡ Fun fact: I went to school to be an audio engineer for a little while
+- 🎧 Fun fact: I went to school to be an audio engineer for a little while
 
 ### Highlighted Projects:
 
