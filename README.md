@@ -10,9 +10,19 @@
 
 ### Highlighted Projects:
 
-<a href="https://github.com/djviodes/family-promise-spokane-be-b/tree/main/api/docuSign" target="_blank">1. Family Promise Homeless Shelter</a>
+<a href="https://github.com/djviodes/family-promise-spokane-be-b/tree/main/api/docuSign">1. Family Promise Homeless Shelter</a>
 <ul>
     <li>A website designed to assist families with the intake process into Family Promise’s homeless shelter</li>
+</ul>
+
+<a href="https://github.com/relationship-goals/back-end">2. Relationship Goals</a>
+<ul>
+    <li>An app that helps users maintain personal and romantic relationships by setting clear, achievable goals over time</li>
+</ul>
+
+<a href="https://github.com/team-muskrat-expat-journal/front-end">2. Traveler's Expat Journal</a>
+<ul>
+    <li>An app designed to allow users to document and share photos of their travels</li>
 </ul>
 
 ### Connect with me:
