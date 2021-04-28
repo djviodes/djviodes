@@ -45,4 +45,3 @@
 <img align="left" alt="GitHub" width="22px" src="./assets/github-icon.svg" />
 
 <br />
-<br />
