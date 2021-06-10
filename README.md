@@ -4,8 +4,8 @@
 
 - 😄 Pronouns: he/his
 - 🕹 I’m currently working on a video game API
-- 🔐 I’m currently learning more about database security
 - 🥅 2021 Goals: Contribute more to open source projects
+- ⛓ I’m currently learning more about blockchain technology
 - 🎧 Fun fact: I went to school to be an audio engineer for a little while
 
 ### Highlighted Projects:
