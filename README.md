@@ -1,29 +1,12 @@
 ### Hi there, I'm David 👋
 
-## I am a Full-Stack Developer who works in a JavaScript, React, and Node based stack!
+## I am a Backend Software Engineer who works in a JavaScript and Node based stack!
 
 - 😄 Pronouns: he/his
-- 🕹 I’m currently working on a video game API
-- 🥅 2021 Goals: Contribute more to open source projects
-- ⛓ I’m currently learning more about blockchain technology
+- ⛏ I’m currently working at Compass Mining
+- 🔐 I’m currently learning more about cybersecurity
+- 🥅 2021 Goals: Continue to learn about backend engineering
 - 🎧 Fun fact: I went to school to be an audio engineer for a little while
-
-### Highlighted Projects:
-
-<a href="https://github.com/djviodes/family-promise-spokane-be-b/tree/main/api/docuSign">1. Family Promise Homeless Shelter</a>
-<ul>
-    <li>A website designed to assist families with the intake process into Family Promise’s homeless shelter</li>
-</ul>
-
-<a href="https://github.com/relationship-goals/back-end">2. Relationship Goals</a>
-<ul>
-    <li>An app that helps users maintain personal and romantic relationships by setting clear, achievable goals over time</li>
-</ul>
-
-<a href="https://github.com/team-muskrat-expat-journal/front-end">2. Traveler's Expat Journal</a>
-<ul>
-    <li>An app designed to allow users to document and share photos of their travels</li>
-</ul>
 
 ### Connect with me:
 
