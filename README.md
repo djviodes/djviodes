@@ -4,8 +4,8 @@
 
 - 😄 Pronouns: he/his
 - ⛏ I’m currently working at Compass Mining
-- 🔐 I’m currently learning more about cybersecurity
-- 🥅 2021 Goals: Continue to learn about backend engineering
+- 🔐 I’m currently learning more about software architecure
+- 🥅 2022 Goals: Continue to learn about backend engineering and AWS
 - 🎧 Fun fact: I went to school to be an audio engineer for a little while
 
 ### Connect with me:
